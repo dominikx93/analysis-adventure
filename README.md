@@ -6,4 +6,4 @@ As part of my COMM5007 course at UNSW, I worked on a Python project that started
 
 This isn’t just a coursework submission; it’s also a fun little game. Try changing the input and see how the heart adapts! Hope you find it interesting! 🚀
 
-Check out the full code here 👉 COMM5007_HeartShape.ipynb
+Check out the full code here 👉 [COMM5007_HeartShape.ipynb](https://github.com/dominikx93/analysis-adventure/blob/main/COMM5007_HeartShape.ipynb)
