@@ -1,4 +1,4 @@
-# analysis-adventure
+# Analysis Adventure
 My adventure in Data/Business Analytics
 
 ### Exploring Python Beyond the Classroom! 🐍❤️
