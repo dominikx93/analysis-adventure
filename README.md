@@ -4,7 +4,7 @@ My adventure in Data/Business Analytics
 ## Business Data Analysis with SAS & SQL 📊 7 July 2025
 For my INFS5710 course at UNSW, I analysed a real-world dataset using SAS with integrated SQL. This project focused on transforming raw data into actionable insights to support business decision-making.
 
-Check out the code [here] () 👈
+Check out the code [here](https://github.com/dominikx93/analysis-adventure/blob/main/LaNew25_Analysis_1.sas) 👈
 
 ## Exploring Graduate Salaries with Python! 🎓🐍 26 April 2025
 As part of my COMM5007 course at UNSW, I took on a Python project that turned into a full-scale data adventure! This time, I dived into real-world data to explore how different college majors impact graduate salaries — from starting pay to mid-career growth.
