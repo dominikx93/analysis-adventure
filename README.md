@@ -1,13 +1,13 @@
-# Logistic Regression with a Neural Network Mindset 🤖 3 August 2025
+# Analysis Adventure
+My adventure in Data/Business Analytics
+
+## Logistic Regression with a Neural Network Mindset 🤖 3 August 2025
 
 As part of my deep learning journey, I built my very first model using Python and NumPy, applying logistic regression through the lens of a simple neural network. This hands-on project helped me understand the foundational building blocks of deep learning, such as forward and backward propagation, cost computation, and gradient descent.
 
 I implemented everything from scratch — no pre-built libraries like TensorFlow or PyTorch — to deepen my understanding of how neural networks actually work under the hood.
 
 Check out the code [here](https://github.com/dominikx93/analysis-adventure/blob/main/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)👈
-
-# Analysis Adventure
-My adventure in Data/Business Analytics
 
 ## Business Data Analysis with SAS & SQL - 2 📊 14 July 2025
 For my INFS5710 course at UNSW, I analysed a real-world dataset using SAS with integrated SQL. This time I focused on analysis of market, products and customer segmentations to support business decision-making. 
