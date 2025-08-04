@@ -1,6 +1,21 @@
 # Analysis Adventure
 My adventure in Data/Business Analytics
 
+## Planar Data Classification with One Hidden Layer 🧠 4 August 2025
+
+Continuing my deep learning journey, I built my first two-layer neural network from scratch using just Python and NumPy. This time, the task was binary classification on a 2D planar dataset, and I implemented a full feedforward neural network with a single hidden layer.
+
+Through this project, I gained practical experience with:
+
+	• Non-linear activation functions like tanh
+	• Forward and backward propagation
+	• Computing cross-entropy loss
+	• Manual gradient descent updates for all parameters
+
+No high-level libraries like TensorFlow or PyTorch were used — everything was implemented from the ground up to reinforce how deep learning works behind the scenes.
+
+Check out the code [here](https://github.com/dominikx93/analysis-adventure/blob/main/Planar_data_classification_with_one_hidden_layer.ipynb) 👈
+
 ## Logistic Regression with a Neural Network Mindset 🤖 3 August 2025
 
 As part of my deep learning journey, I built my very first model using Python and NumPy, applying logistic regression through the lens of a simple neural network. This hands-on project helped me understand the foundational building blocks of deep learning, such as forward and backward propagation, cost computation, and gradient descent.
