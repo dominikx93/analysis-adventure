@@ -1,6 +1,36 @@
 # Analysis Adventure
 My adventure in Data/Business Analytics
 
+## Deep Neural Network from Scratch – Build and Apply 🧠📸 5 August 2025
+
+Taking the next step in my deep learning journey, I built a fully customisable deep neural network using only Python and NumPy. This two-part project focuses on understanding both the architecture and practical application of L-layer feedforward networks — no high-level libraries involved.
+
+### 🔧 Part 1: Building the Neural Network – Step by Step
+
+In this notebook, I implemented the entire structure of a deep neural network from scratch. The architecture is designed to support any number of layers and is built using clean, reusable functions for all key operations.
+
+Key Concepts Practiced:
+
+	• ReLU and Sigmoid activation functions
+	• Forward and backward propagation through multiple layers
+	• Cost computation and gradient descent
+	• Modular and scalable design with full vectorisation
+
+Check out the code [here](https://github.com/dominikx93/analysis-adventure/blob/main/Building_your_Deep_Neural_Network_Step_by_Step.ipynb) 👈
+
+### 🖼️ Part 2: Image Classification with Deep Neural Network
+
+In the second notebook, I applied the deep neural network to a binary image classification task: identifying cat vs non-cat images. This involved data preprocessing, training, testing, and visualising results.
+
+Key Concepts Practiced:
+
+	• Image vectorisation and preprocessing
+	• Multi-layer training using the custom-built architecture
+	• Accuracy evaluation on training and test sets
+	• Visual analysis of predictions and errors
+
+Check out the code [here](https://github.com/dominikx93/analysis-adventure/blob/main/Deep%20Neural%20Network%20-%20Application.ipynb) 👈
+
 ## Planar Data Classification with One Hidden Layer 🧠 4 August 2025
 
 Continuing my deep learning journey, I built my first two-layer neural network from scratch using just Python and NumPy. This time, the task was binary classification on a 2D planar dataset, and I implemented a full feedforward neural network with a single hidden layer.
